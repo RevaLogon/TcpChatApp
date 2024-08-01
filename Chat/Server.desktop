@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Server
+Exec=/home/kuzu/Desktop/Chat/dist/server
+Comment=
+Terminal=true
+PrefersNonDefaultGPU=false
+Icon=/home/kuzu/Desktop/Chat/pigeon_PNG54606.png
+Type=Application
